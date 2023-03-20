@@ -11,7 +11,7 @@ class Product {
             <td>${product.name}</td>
             <td>${product.price}</td>
             <td>
-                <img src="./assets/trash-icon.png" alt="trash icon" onclick="product.delete(event)" />
+                <img src="assets/trash-icon.png" alt="trash icon" onclick="product.delete(event)" />
             </td>
         `
 
